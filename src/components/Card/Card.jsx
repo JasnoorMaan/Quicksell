@@ -28,7 +28,7 @@ export default function Card(props) {
             {
               0: (
                 <div className="card-tag-icon">
-                  <img src="/no-priority.svg" alt="Backlog" />
+                  <img src="/No-priority.svg" alt="Backlog" />
                 </div>
               ),
               1: (
